@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    color: #ff0000;
+}
+
+#result{
+    text-align: center;
+    color: #8a2be2;
+}
+img{
+    width: 30%;
+    margin-left: 35%;
+}
+.toss{
+    text-align: center;
+}
+
+body{
+    background-color: #b9b9ff;
+}
